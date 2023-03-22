@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    background-color: #99b5dd;
+    font-family: Courier New;
+    padding: 10px 0 10px 0;
+}
+
+h3 {
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.episode {
+    display: none;
+}
+
+.season {
+    display: none;
+}
+
+.leftbox { 
+        float:left; 
+        width:25%; 
+            } 
+.rightbox{ 
+         float:right;  
+         width:75%;
+         }
+
+.cell{
+      color: green;
+      font-size: 20px 
+}
